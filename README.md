@@ -1,4 +1,4 @@
-# ui-tak
+# ui-task
 
 Frontend Application for Quote Management
 This is a simple frontend application built to interact with APIs for user login, quote management, and image upload. The project is designed with three main pages: Login, Quote List, and Quote Creation. It is responsive and optimized for mobile devices.
